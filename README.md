@@ -1,5 +1,7 @@
 # Hi, I'm Dayeon Seo 👋
 
+![Dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodyeon&show_icons=true&theme=tokyonight)
+
 🎓 Industrial & Data Engineering @ Hongik University  
 🎯 Aspiring IT Consultant  
 
