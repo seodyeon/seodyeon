@@ -10,4 +10,3 @@
 
 ## 📫 Contact
 - Email: dsaas0414@gmail.com
-- LinkedIn: (나중에 만들면 추가)
