@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dayeon Seo 👋
 
-<!--
-**seodyeon/seodyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Industrial & Data Engineering @ Hongik University  
+🎯 Aspiring IT Consultant  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL, R
+- **Tools:** MS Excel, Notion
+- **Certifications:** ADsP, SQLD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: dsaas0414@gmail.com
+- LinkedIn: (나중에 만들면 추가)
